@@ -64,4 +64,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # e-kantin-final
 project kantin final ni dah ganteng 
+dibuat oleh 3 orang yaitu
+Alif Taufiqurrahman
+Elisabeth Yuli Geamaya
+Zelga Reva Andika 
 >>>>>>> 09f1bd74b744317f4b9f7fe7ed9b12a4a1a1ef25
